@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+.navbar {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.container {
+    max-width: 1200px;
+}
+h1, h2, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img-fluid {
+    border-radius: 10px;
+}
+.section-title {
+    color: #28a745;
+    margin-bottom: 30px;
+}
+.icon {
+    color: #28a745;
+    margin-bottom: 20px;
+}
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    border-top: 1px solid #e4e4e4;
+}
